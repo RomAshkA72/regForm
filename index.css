@@ -10,3 +10,19 @@ label{
     display: block;
     margin: 0.5rem 0;
 }
+
+a{
+    color: green;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: black;
+}
+
+a:active{
+    color: black;
+}
